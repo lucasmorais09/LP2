@@ -1,0 +1,10 @@
+C:\Users\0030482323029\source\repos\PIMC\PIMC\bin\Debug\PIMC.exe.config
+C:\Users\0030482323029\source\repos\PIMC\PIMC\bin\Debug\PIMC.exe
+C:\Users\0030482323029\source\repos\PIMC\PIMC\bin\Debug\PIMC.pdb
+C:\Users\0030482323029\source\repos\PIMC\PIMC\obj\Debug\PIMC.csproj.AssemblyReference.cache
+C:\Users\0030482323029\source\repos\PIMC\PIMC\obj\Debug\PIMC.Form1.resources
+C:\Users\0030482323029\source\repos\PIMC\PIMC\obj\Debug\PIMC.Properties.Resources.resources
+C:\Users\0030482323029\source\repos\PIMC\PIMC\obj\Debug\PIMC.csproj.GenerateResource.cache
+C:\Users\0030482323029\source\repos\PIMC\PIMC\obj\Debug\PIMC.csproj.CoreCompileInputs.cache
+C:\Users\0030482323029\source\repos\PIMC\PIMC\obj\Debug\PIMC.exe
+C:\Users\0030482323029\source\repos\PIMC\PIMC\obj\Debug\PIMC.pdb
